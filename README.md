@@ -8,10 +8,10 @@
 
 ## 📚 Seções
 
-O site é composto por seis seções:
+Meu site possuirá 4 sessões principais:
 
 - **Home:** Nele temos uma breve apresentação;
-- **Quem sou:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;;
+- **Sobre mim:** Nessa seção tem um pouco de minha trajetória profissional e academica;
 - **Meus Projetos:** Apresenta alguns de meus projetos pessoais com o objetivo da pratica de programaçâo;
 - **My Soft Skills:** Exibe algumas de minhas habilidades em diferntes linguagens;
 
