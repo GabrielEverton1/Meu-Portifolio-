@@ -4,7 +4,7 @@
 
 ![Ainda a implementar](assets/image/preview.png)
 
-<h4 align="center"><a href="">Clique para visitar o projeto https://www.gabriellima.com/</a></h4>
+<h4 align="center"><a href="">Clique para visitar meu site (ainda a implementar) https://www.gabriellima.com/</a></h4>
 
 ## 📚 Seções
 
