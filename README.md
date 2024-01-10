@@ -33,7 +33,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
   <tr>
     <td align="center">
       <a >
-        <img src="" width="100px;" alt="Foto do Gabriel Everton no GitHub"/><br>
+        <img src="assets/image/preview.png" width="100px;" alt="Foto do Gabriel Everton no GitHub (Ainda a implementar)"/><br>
         <sub>
           <b>Gabriel Everton</b>
         </sub>
