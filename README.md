@@ -1,8 +1,8 @@
 <h1 align="center">
-  💻<br>Portfólio - Iuri Silva
+  💻<br>Portfólio - Gabriel Everton
 </h1>
 
-![Resultado final do projeto](assets/image/preview.png)
+![Ainda a implementar](assets/image/preview.png)
 
 <h4 align="center"><a href="">Clique para visitar o projeto https://www.gabriellima.com/</a></h4>
 
