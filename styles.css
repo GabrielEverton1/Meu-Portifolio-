@@ -1,20 +1,19 @@
 body {
-    font-family: 'Arial', sans-serif;
+    min-height: 100vh;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
     background: linear-gradient(to bottom, #fc2803, #7a1402, #491ed6);
     color: #fff;
+    display: flex;
+    flex-direction: column;
 }
 
 header {
     background: linear-gradient(to bottom, #fc2803, #7a1402, #491ed6);
     text-align: center;
     padding: 1em 0;
-    position: fixed;
     width: 100%;
-    top: 0;
-    z-index: 1000;
 }
 
 nav ul {
@@ -37,6 +36,7 @@ nav a:hover {
 }
 
 section {
+    flex: 1;
     padding: 50px 20px;
     background: linear-gradient(to bottom, #491ed6, #281173, #5a1173);
     margin-top: 60px;
@@ -93,7 +93,5 @@ footer {
     color: #fff;
     text-align: center;
     padding: 1em 0;
-    position: absolute;
-    bottom: 0;
     width: 100%;
 }
