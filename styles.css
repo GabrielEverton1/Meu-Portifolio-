@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background: linear-gradient(to bottom, #fc2803, #7a1402, black);
+    background: linear-gradient(to bottom, #fc2803, #7a1402, #335454);
     text-align: center;
     padding: 1em 0;
     width: 100%;
@@ -89,7 +89,7 @@ ul li:hover {
 }
 
 footer {
-    background: linear-gradient(to bottom, blakc, #7a1402, #491ed6);
+    background: linear-gradient(to bottom, #335454, #7a1402, #491ed6);
     color: #fff;
     text-align: center;
     padding: 1em 0;
