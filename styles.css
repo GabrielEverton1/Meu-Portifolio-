@@ -3,14 +3,14 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Arial', sans-serif;
-    background: #335454;
+    background: #5a1173;
     color: #fff;
     display: flex;
     flex-direction: column;
 }
 
 header {
-    background: linear-gradient(to bottom, #fc2803, #7a1402, #335454);
+    background: linear-gradient(to bottom, #fc2803, #7a1402, #5a1173);
     text-align: center;
     padding: 1em 0;
     width: 100%;
@@ -89,7 +89,7 @@ ul li:hover {
 }
 
 footer {
-    background: linear-gradient(to bottom, #335454, #7a1402, #491ed6);
+    background: linear-gradient(to bottom, #5a1173, #7a1402, #491ed6);
     color: #fff;
     text-align: center;
     padding: 1em 0;
