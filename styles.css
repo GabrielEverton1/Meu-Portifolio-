@@ -1,51 +1,55 @@
+
 body {
-    background: #4c0b61; /* Roxo Escuro - VariaÃ§Ã£o 1 */
-    color: #e5e5e5; /* Branco - VariaÃ§Ã£o 1 */
+    background: #2b3856; /* Azul Escuro */
+    color: #ffffff; /* Branco */
 }
 
 header {
-    background: linear-gradient(to bottom, #07ed3e, #4c0b61, #442f09); /* Verde, Roxo Escuro - VariaÃ§Ã£o 1, Amarelo Escuro */
+    background: linear-gradient(to bottom, #5c9236, #2b3856, #943630); /* Verde Escuro, Azul Escuro, Vinho Escuro */
 }
 
 nav a {
-    color: #e5e5e5; /* Branco - VariaÃ§Ã£o 1 */
+    color: #ffffff; /* Branco */
 }
 
 nav a:hover {
-    color: #09441f; /* Verde Escuro */
+    color: #6b4a2d; /* Marrom */
 }
 
 section {
-    background: linear-gradient(to bottom, #4c0b61, #09441f, #442f09); /* Roxo Escuro - VariaÃ§Ã£o 1, Verde Escuro, Amarelo Escuro */
+    background: linear-gradient(to bottom, #2b3856, #6b4a2d, #943630); /* Azul Escuro, Marrom, Vinho Escuro */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
-    color: #72c237; /* Verde - VariaÃ§Ã£o 2 */
+    color: #3d774e; /* Verde Escuro */
 }
 
 .projeto h3 {
-    color: #72c237; /* Verde - VariaÃ§Ã£o 2 */
+    color: #3d774e; /* Verde Escuro */
 }
 
 .projeto p {
-    color: #04c626; /* Verde - VariaÃ§Ã£o 3 */
+    color: #6b4a2d; /* Marrom */
 }
 
 .projeto:hover h3 {
-    color: #b53b9f; /* Roxo - VariaÃ§Ã£o 2 */
+    color: #8e6c9f; /* Roxo Escuro */
 }
 
 ul li {
-    background: linear-gradient(to bottom, #4c0b61, #b53b9f); /* Roxo Escuro - VariaÃ§Ã£o 1, Roxo - VariaÃ§Ã£o 2 */
-    color: #e5e5e5; /* Branco - VariaÃ§Ã£o 1 */
+    background: linear-gradient(to bottom, #2b3856, #8e6c9f); /* Azul Escuro, Roxo Escuro */
+    color: #ffffff; /* Branco */
 }
 
 ul li:hover {
-    background: linear-gradient(to bottom, #09441f, #4c0b61); /* Verde Escuro, Roxo Escuro - VariaÃ§Ã£o 1 */
+    background: linear-gradient(to bottom, #6b4a2d, #2b3856); /* Marrom, Azul Escuro */
 }
 
 footer {
-    background: linear-gradient(to bottom, #4c0b61, #442f09, #b53b9f); /* Roxo Escuro - VariaÃ§Ã£o 1, Amarelo Escuro, Roxo - VariaÃ§Ã£o 2 */
-    color: #e5e5e5; /* Branco - VariaÃ§Ã£o 1 */
+    background: linear-gradient(to bottom, #2b3856, #943630, #8e6c9f); /* Azul Escuro, Vinho Escuro, Roxo Escuro */
+    color: #ffffff; /* Branco */
 }
+```
+
+Essas cores foram escolhidas para transmitir seriedade e profissionalismo, mantendo a harmonia triádica.
