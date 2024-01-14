@@ -1,16 +1,17 @@
+
 body {
     min-height: 100vh;
     margin: 0;
     padding: 0;
     font-family: 'Arial', sans-serif;
-    background: #2b3856; /* Azul Escuro */
-    color: #ffffff; /* Branco */
+    background: #6df7f7; /* Azul Claro */
+    color: #2b3856; /* Azul Escuro */
     display: flex;
     flex-direction: column;
 }
 
 header {
-    background: linear-gradient(to bottom, #5c9236, #2b3856, #943630); /* Verde Escuro, Azul Escuro, Vinho Escuro */
+    background: linear-gradient(to bottom, #4c8f35, #6df7f7, #35425b); /* Verde Escuro, Azul Claro, Azul Escuro */
     text-align: center;
     padding: 1em 0;
     width: 100%;
@@ -18,7 +19,7 @@ header {
 
 nav a {
     text-decoration: none;
-    color: #ffffff; /* Branco */
+    color: #2b3856; /* Azul Escuro */
     transition: color 0.3s ease;
 }
 
@@ -29,19 +30,19 @@ nav a:hover {
 section {
     flex: 1;
     padding: 50px 20px;
-    background: linear-gradient(to bottom, #2b3856, #6b4a2d, #943630); /* Azul Escuro, Marrom, Vinho Escuro */
+    background: linear-gradient(to bottom, #6df7f7, #35425b, #6b4a2d); /* Azul Claro, Azul Escuro, Marrom */
     margin-top: 60px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
-    color: #ffffff; /* Branco */
+    color: #2b3856; /* Azul Escuro */
 }
 
 h2 {
-    color: #3d774e; /* Verde Escuro */
+    color: #4c8f35; /* Verde Escuro */
 }
 
 .projeto h3 {
-    color: #3d774e; /* Verde Escuro */
+    color: #4c8f35; /* Verde Escuro */
     transition: color 0.3s ease;
 }
 
@@ -57,7 +58,7 @@ ul li {
     display: inline-block;
     margin-right: 10px;
     background: linear-gradient(to bottom, #2b3856, #8e6c9f); /* Azul Escuro, Roxo Escuro */
-    color: #ffffff; /* Branco */
+    color: #6df7f7; /* Azul Claro */
     padding: 10px 15px;
     border-radius: 5px;
     transition: background 0.3s ease, transform 0.2s ease;
@@ -69,9 +70,12 @@ ul li:hover {
 }
 
 footer {
-    background: linear-gradient(to bottom, #2b3856, #943630, #8e6c9f); /* Azul Escuro, Vinho Escuro, Roxo Escuro */
-    color: #ffffff; /* Branco */
+    background: linear-gradient(to bottom, #6df7f7, #35425b, #8e6c9f); /* Azul Claro, Azul Escuro, Roxo Escuro */
+    color: #2b3856; /* Azul Escuro */
     text-align: center;
     padding: 1em 0;
     width: 100%;
 }
+```
+
+Essa formatação utiliza variações do azul #6df7f7, proporcionando uma aparência mais séria e profissional.
