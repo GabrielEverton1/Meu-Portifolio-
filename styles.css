@@ -1,50 +1,51 @@
 body {
-    background: #333333; /* Cinza Escuro */
-    color: #FFFFFF; /* Branco */
+    background: #4c0b61; /* Roxo Escuro - VariaÃ§Ã£o 1 */
+    color: #e5e5e5; /* Branco - VariaÃ§Ã£o 1 */
 }
 
 header {
-    background: linear-gradient(to bottom, #001F3F, #333333, #5a1173); /* Azul Marinho, Cinza Escuro, Roxo Escuro */
+    background: linear-gradient(to bottom, #ed3e07, #4c0b61, #2f0944); /* Laranja, Roxo Escuro - VariaÃ§Ã£o 1, Roxo Escuro - VariaÃ§Ã£o 2 */
 }
 
 nav a {
-    color: #FFFFFF; /* Branco */
+    color: #e5e5e5; /* Branco - VariaÃ§Ã£o 1 */
 }
 
 nav a:hover {
-    color: #2ECC71; /* Verde Esmeralda */
+    color: #1f0944; /* Roxo Escuro - VariaÃ§Ã£o 2 */
 }
 
 section {
-    background: linear-gradient(to bottom, #001F3F, #281173, #5a1173); /* Azul Marinho, Roxo Escuro, Roxo Escuro */
+    background: linear-gradient(to bottom, #4c0b61, #1f0944, #2f0944); /* Roxo Escuro - VariaÃ§Ã£o 1, Roxo Escuro - VariaÃ§Ã£o 2, Roxo Escuro - VariaÃ§Ã£o 2 */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
-    color: #2ECC71; /* Verde Esmeralda */
+    color: #37c272; /* Verde - VariaÃ§Ã£o 1 */
 }
 
 .projeto h3 {
-    color: #2ECC71; /* Verde Esmeralda */
+    color: #37c272; /* Verde - VariaÃ§Ã£o 1 */
 }
 
 .projeto p {
-    color: #7a1402; /* Marrom Escuro */
+    color: #c62604; /* Vermelho - VariaÃ§Ã£o 1 */
 }
 
 .projeto:hover h3 {
-    color: #b64bdb; /* Roxo Claro */
+    color: #9f3bb5; /* Roxo - VariaÃ§Ã£o 3 */
 }
 
 ul li {
-    background: linear-gradient(to bottom, #5a1173, #b64bdb); /* Roxo Escuro, Roxo Claro */
-    color: #fff;
+    background: linear-gradient(to bottom, #4c0b61, #9f3bb5); /* Roxo Escuro - VariaÃ§Ã£o 1, Roxo - VariaÃ§Ã£o 3 */
+    color: #e5e5e5; /* Branco - VariaÃ§Ã£o 1 */
 }
 
 ul li:hover {
-    background: linear-gradient(to bottom, #281173, #5a1173); /* Roxo Escuro, Roxo Escuro */
+    background: linear-gradient(to bottom, #1f0944, #4c0b61); /* Roxo Escuro - VariaÃ§Ã£o 2, Roxo Escuro - VariaÃ§Ã£o 1 */
 }
 
 footer {
-    background: linear-gradient(to bottom, #001F3F, #7a1402, #491ed6); /* Azul Marinho, Marrom Escuro, Roxo Escuro */
+    background: linear-gradient(to bottom, #4c0b61, #2f0944, #9f3bb5); /* Roxo Escuro - VariaÃ§Ã£o 1, Roxo Escuro - VariaÃ§Ã£o 2, Roxo - VariaÃ§Ã£o 3 */
+    color: #e5e5e5; /* Branco - VariaÃ§Ã£o 1 */
 }
