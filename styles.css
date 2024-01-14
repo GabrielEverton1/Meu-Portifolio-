@@ -1,97 +1,50 @@
 body {
-    min-height: 100vh;
-    margin: 0;
-    padding: 0;
-    font-family: 'Arial', sans-serif;
-    background: #5a1173;
-    color: #fff;
-    display: flex;
-    flex-direction: column;
+    background: #333333; /* Cinza Escuro */
+    color: #FFFFFF; /* Branco */
 }
 
 header {
-    background: linear-gradient(to bottom, #fc2803, #7a1402, #5a1173);
-    text-align: center;
-    padding: 1em 0;
-    width: 100%;
-}
-
-nav ul {
-    list-style: none;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
+    background: linear-gradient(to bottom, #001F3F, #333333, #5a1173); /* Azul Marinho, Cinza Escuro, Roxo Escuro */
 }
 
 nav a {
-    text-decoration: none;
-    color: #fff;
-    transition: color 0.3s ease;
+    color: #FFFFFF; /* Branco */
 }
 
 nav a:hover {
-    color: #281173;
+    color: #2ECC71; /* Verde Esmeralda */
 }
 
 section {
-    flex: 1;
-    padding: 50px 20px;
-    background: linear-gradient(to bottom, #491ed6, #281173, #5a1173);
-    margin-top: 60px;
+    background: linear-gradient(to bottom, #001F3F, #281173, #5a1173); /* Azul Marinho, Roxo Escuro, Roxo Escuro */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    color: #fff;
 }
 
 h2 {
-    color: #95fbfc;
-}
-
-.projeto {
-    margin-bottom: 30px;
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 20px;
+    color: #2ECC71; /* Verde Esmeralda */
 }
 
 .projeto h3 {
-    color: #95fbfc;
-    transition: color 0.3s ease;
+    color: #2ECC71; /* Verde Esmeralda */
 }
 
 .projeto p {
-    color: #7a1402;
+    color: #7a1402; /* Marrom Escuro */
 }
 
 .projeto:hover h3 {
-    color: #b64bdb;
-}
-
-ul {
-    list-style: none;
-    padding: 0;
+    color: #b64bdb; /* Roxo Claro */
 }
 
 ul li {
-    display: inline-block;
-    margin-right: 10px;
-    background: linear-gradient(to bottom, #5a1173, #b64bdb);
+    background: linear-gradient(to bottom, #5a1173, #b64bdb); /* Roxo Escuro, Roxo Claro */
     color: #fff;
-    padding: 10px 15px;
-    border-radius: 5px;
-    transition: background 0.3s ease, transform 0.2s ease;
 }
 
 ul li:hover {
-    background: linear-gradient(to bottom, #281173, #5a1173);
-    transform: scale(1.1);
+    background: linear-gradient(to bottom, #281173, #5a1173); /* Roxo Escuro, Roxo Escuro */
 }
 
 footer {
-    background: linear-gradient(to bottom, #5a1173, #7a1402, #491ed6);
-    color: #fff;
-    text-align: center;
-    padding: 1em 0;
-    width: 100%;
+    background: linear-gradient(to bottom, #001F3F, #7a1402, #491ed6); /* Azul Marinho, Marrom Escuro, Roxo Escuro */
 }
