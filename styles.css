@@ -46,7 +46,7 @@ section {
 }
 
 h2 {
-    color: #fc2803;
+    color: #95fbfc;
 }
 
 .projeto {
@@ -56,7 +56,7 @@ h2 {
 }
 
 .projeto h3 {
-    color: #fc2803;
+    color: #95fbfc;
     transition: color 0.3s ease;
 }
 
