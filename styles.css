@@ -1,17 +1,16 @@
-
 body {
     min-height: 100vh;
     margin: 0;
     padding: 0;
     font-family: 'Arial', sans-serif;
-    background: #6df7f7; /* Azul Claro */
-    color: #2b3856; /* Azul Escuro */
+    background: #363636; /* Cinza Escuro */
+    color: #ffffff; /* Branco */
     display: flex;
     flex-direction: column;
 }
 
 header {
-    background: linear-gradient(to bottom, #4c8f35, #6df7f7, #35425b); /* Verde Escuro, Azul Claro, Azul Escuro */
+    background: linear-gradient(to bottom, #63BBD0, #363636, #735B91); /* Azul Claro, Cinza Escuro, Roxo Escuro */
     text-align: center;
     padding: 1em 0;
     width: 100%;
@@ -19,63 +18,60 @@ header {
 
 nav a {
     text-decoration: none;
-    color: #2b3856; /* Azul Escuro */
+    color: #ffffff; /* Branco */
     transition: color 0.3s ease;
 }
 
 nav a:hover {
-    color: #6b4a2d; /* Marrom */
+    color: #4c4c4c; /* Cinza */
 }
 
 section {
     flex: 1;
     padding: 50px 20px;
-    background: linear-gradient(to bottom, #6df7f7, #35425b, #6b4a2d); /* Azul Claro, Azul Escuro, Marrom */
+    background: linear-gradient(to bottom, #679AC3, #4c4c4c, #735B91); /* Azul MÃ©dio, Cinza, Roxo Escuro */
     margin-top: 60px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
-    color: #2b3856; /* Azul Escuro */
+    color: #ffffff; /* Branco */
 }
 
 h2 {
-    color: #4c8f35; /* Verde Escuro */
+    color: #63BBD0; /* Azul Claro */
 }
 
 .projeto h3 {
-    color: #4c8f35; /* Verde Escuro */
+    color: #63BBD0; /* Azul Claro */
     transition: color 0.3s ease;
 }
 
 .projeto p {
-    color: #6b4a2d; /* Marrom */
+    color: #4c4c4c; /* Cinza */
 }
 
 .projeto:hover h3 {
-    color: #8e6c9f; /* Roxo Escuro */
+    color: #6266AA; /* Azul Escuro */
 }
 
 ul li {
     display: inline-block;
     margin-right: 10px;
-    background: linear-gradient(to bottom, #2b3856, #8e6c9f); /* Azul Escuro, Roxo Escuro */
-    color: #6df7f7; /* Azul Claro */
+    background: linear-gradient(to bottom, #735B91, #6266AA); /* Roxo Escuro, Azul Escuro */
+    color: #ffffff; /* Branco */
     padding: 10px 15px;
     border-radius: 5px;
     transition: background 0.3s ease, transform 0.2s ease;
 }
 
 ul li:hover {
-    background: linear-gradient(to bottom, #6b4a2d, #2b3856); /* Marrom, Azul Escuro */
+    background: linear-gradient(to bottom, #4c4c4c, #735B91); /* Cinza, Roxo Escuro */
     transform: scale(1.1);
 }
 
 footer {
-    background: linear-gradient(to bottom, #6df7f7, #35425b, #8e6c9f); /* Azul Claro, Azul Escuro, Roxo Escuro */
-    color: #2b3856; /* Azul Escuro */
+    background: linear-gradient(to bottom, #63BBD0, #363636, #6266AA); /* Azul Claro, Cinza Escuro, Azul Escuro */
+    color: #ffffff; /* Branco */
     text-align: center;
     padding: 1em 0;
     width: 100%;
 }
-```
-
-Essa formatação utiliza variações do azul #6df7f7, proporcionando uma aparência mais séria e profissional.
