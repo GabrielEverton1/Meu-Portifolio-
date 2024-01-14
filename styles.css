@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background: linear-gradient(to bottom, #ed3e07, #4c0b61, #2f0944); /* Laranja, Roxo Escuro - VariaÃ§Ã£o 1, Roxo Escuro - VariaÃ§Ã£o 2 */
+    background: linear-gradient(to bottom, #07ed3e, #4c0b61, #442f09); /* Verde, Roxo Escuro - VariaÃ§Ã£o 1, Amarelo Escuro */
 }
 
 nav a {
@@ -12,40 +12,40 @@ nav a {
 }
 
 nav a:hover {
-    color: #1f0944; /* Roxo Escuro - VariaÃ§Ã£o 2 */
+    color: #09441f; /* Verde Escuro */
 }
 
 section {
-    background: linear-gradient(to bottom, #4c0b61, #1f0944, #2f0944); /* Roxo Escuro - VariaÃ§Ã£o 1, Roxo Escuro - VariaÃ§Ã£o 2, Roxo Escuro - VariaÃ§Ã£o 2 */
+    background: linear-gradient(to bottom, #4c0b61, #09441f, #442f09); /* Roxo Escuro - VariaÃ§Ã£o 1, Verde Escuro, Amarelo Escuro */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
-    color: #37c272; /* Verde - VariaÃ§Ã£o 1 */
+    color: #72c237; /* Verde - VariaÃ§Ã£o 2 */
 }
 
 .projeto h3 {
-    color: #37c272; /* Verde - VariaÃ§Ã£o 1 */
+    color: #72c237; /* Verde - VariaÃ§Ã£o 2 */
 }
 
 .projeto p {
-    color: #c62604; /* Vermelho - VariaÃ§Ã£o 1 */
+    color: #04c626; /* Verde - VariaÃ§Ã£o 3 */
 }
 
 .projeto:hover h3 {
-    color: #9f3bb5; /* Roxo - VariaÃ§Ã£o 3 */
+    color: #b53b9f; /* Roxo - VariaÃ§Ã£o 2 */
 }
 
 ul li {
-    background: linear-gradient(to bottom, #4c0b61, #9f3bb5); /* Roxo Escuro - VariaÃ§Ã£o 1, Roxo - VariaÃ§Ã£o 3 */
+    background: linear-gradient(to bottom, #4c0b61, #b53b9f); /* Roxo Escuro - VariaÃ§Ã£o 1, Roxo - VariaÃ§Ã£o 2 */
     color: #e5e5e5; /* Branco - VariaÃ§Ã£o 1 */
 }
 
 ul li:hover {
-    background: linear-gradient(to bottom, #1f0944, #4c0b61); /* Roxo Escuro - VariaÃ§Ã£o 2, Roxo Escuro - VariaÃ§Ã£o 1 */
+    background: linear-gradient(to bottom, #09441f, #4c0b61); /* Verde Escuro, Roxo Escuro - VariaÃ§Ã£o 1 */
 }
 
 footer {
-    background: linear-gradient(to bottom, #4c0b61, #2f0944, #9f3bb5); /* Roxo Escuro - VariaÃ§Ã£o 1, Roxo Escuro - VariaÃ§Ã£o 2, Roxo - VariaÃ§Ã£o 3 */
+    background: linear-gradient(to bottom, #4c0b61, #442f09, #b53b9f); /* Roxo Escuro - VariaÃ§Ã£o 1, Amarelo Escuro, Roxo - VariaÃ§Ã£o 2 */
     color: #e5e5e5; /* Branco - VariaÃ§Ã£o 1 */
 }
